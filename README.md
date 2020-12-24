@@ -2,6 +2,10 @@
 
 This COVID-19 Live tracker is made using React.js and is capable of getting live data of various countries by just selecting the country from dropdown List and visualising the data over charts and Map.
 
+## Project Screenshot
+
+<img src="https://i.imgur.com/YByWTsG.png"></img>
+
 ## Tech Stack
 
 [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
